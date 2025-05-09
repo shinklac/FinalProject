@@ -1,0 +1,41 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+.parallax {
+  /* The image used */
+  background-image: url("records.webp");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lead {font-size: 22px}
+
+h1 {font-size: 55px;
+	text-shadow: 3px 3px black;
+}
+
+h2 {font-size: 35px;
+font-weight: bold;}
+
+
+li {font-size: 18px;
+line-height: 240%}
+
+.headlead {font-size: 23px;
+		   text-shadow: 1px 1px black;}
+
+#Clairo {font-family: garamond;}
+
+#boygenius {font-family: trebuchet ms;}
+
+#ben {font-family: courier new;}
+
+#bea {font-family: verdana;}
+
+#M83 {font-family: georgia;}
